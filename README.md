@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neelima1403
-- 👀 I’m interested in wed developer
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning HTM,CSS,Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
